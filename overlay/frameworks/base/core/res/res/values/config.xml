@@ -408,4 +408,10 @@
         <item>XTRA_SERVER_2=https://xtrapath2.izatcloud.net/xtra3grc.bin</item>
         <item>XTRA_SERVER_3=https://xtrapath3.izatcloud.net/xtra3grc.bin</item>
      </string-array>
+    
+  <integer name="config_deviceHardwareKeys">83</integer>
+
+    <!--bool for backlight options-->
+    <bool name="config_button_brightness_support">true</bool>
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 </resources>
